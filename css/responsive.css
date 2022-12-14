@@ -1,0 +1,168 @@
+/*
+====================================
+large Screen - Others
+====================================
+*/
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+
+
+
+.header-item ul li a {
+    margin-bottom: 10px;
+}
+
+.header-item2 ul:first-of-type {
+    margin-bottom: 10px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    padding: 10px 8px;
+}
+
+.banner-item {
+    margin-top: 100px;
+}
+
+.banner-item h2 {
+    font-size: 32px;
+}
+
+.service-area-inner {
+    width: 100%;
+}
+
+.service-area .br2 {
+	border-right: none;
+}
+
+.service-area a {
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {	
+
+
+
+
+.header-area {
+    display: none;
+}
+
+.banner-item {
+    margin-top: 100px;
+}
+
+.banner-item h2,
+.inner-container h2,
+.inner-container2 h2,
+.inner-container3 h2 {
+    font-size: 28px;
+}
+
+.service-area-inner {
+    width: 100%;
+}
+
+.service-item {
+	padding-bottom: 0;
+}
+
+.service-area .br {
+	border-right: none;
+}
+
+.service-area a {
+    margin-top: 15px;
+}
+
+.inner-container2 h5,
+.inner-container3 h5 {
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
